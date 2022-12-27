@@ -1,0 +1,23 @@
+Library has the following books:
+--------------------------------
+Fielding Henry
+  * Pasquin - checked out to Chapman Carl
+  * The History of Tom Jones
+Fitzgerald Edward
+  * Selected Works
+  * Euphranor - checked out to Brown Jim
+Murdoch Iris
+  * The Red and the Green - checked out to Brown Jim
+  * Sartre
+  * The Bell
+
+The following people are using the library:
+-------------------------------------------
+Brown Jim has the following books
+  * Fitzgerald Edward, Euphranor
+  * Murdoch Iris, The Red and the Green
+
+Chapman Carl has the following books
+  * Fielding Henry, Pasquin
+
+Kowalski Stanislaus has no books

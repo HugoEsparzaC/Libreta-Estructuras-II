@@ -1,0 +1,43 @@
+13
+1
+Fielding Henry
+Pasquin
+1
+Fielding Henry
+The History of Tom Jones
+1
+Fitzgerald Edward
+Selected Works
+1
+Fitzgerald Edward
+Euphranor
+1
+Murdoch Iris
+The Red and the Green
+1
+Murdoch Iris
+The Bell
+1
+Murdoch Iris
+Sartre
+2
+Brown Jim
+Fitzgerald Edward
+Euphranor
+2
+Kowalski Stanislaus
+Murdoch Iris
+The Bell
+2
+Brown Jim
+Murdoch Iris
+The Red and the Green
+2
+Chapman Carl
+Fielding Henry
+Pasquin
+3
+Kowalski Stanislaus
+Murdoch Iris
+The Bell
+4

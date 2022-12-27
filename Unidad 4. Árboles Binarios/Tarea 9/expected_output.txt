@@ -1,0 +1,49 @@
+--------------
+Expression #1
+--------------
+The expression is 263*+
+The contents of the tree is
+---------------------------
+        [2]
+[+]
+                [6]
+        [*]
+                [3]
+--------------------------------
+The result of the evaluation is: 20
+
+--------------
+Expression #2
+--------------
+The expression is 26+3*
+The contents of the tree is
+---------------------------
+                [2]
+        [+]
+                [6]
+[*]
+        [3]
+--------------------------------
+The result of the evaluation is: 24
+
+--------------
+Expression #3
+--------------
+The expression is 41293/*+5-*
+The contents of the tree is
+---------------------------
+        [4]
+[*]
+                        [1]
+                [+]
+                                [2]
+                        [*]
+                                        [9]
+                                [/]
+                                        [3]
+        [-]
+                [5]
+--------------------------------
+The result of the evaluation is: 8
+
+
